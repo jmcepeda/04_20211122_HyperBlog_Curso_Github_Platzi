@@ -23,6 +23,15 @@ body
     font-size: 25px;
 
 }
+
+#cabecera
+{
+    text-align: right;
+    font-family:Verdana;
+    font-size: 14px;
+    font-weight:lighter;
+    color:darkgreen;
+}
 #post
 {
 
