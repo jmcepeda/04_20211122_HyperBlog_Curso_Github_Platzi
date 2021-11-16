@@ -30,7 +30,16 @@ body
     font-family:Verdana;
     font-size: 14px;
     font-weight:lighter;
-    color:darkgreen;
+    color:coral;
+}
+
+#pie
+{
+    text-align: center;
+    font-family:'Times New Roman';
+    font-size: 10px;
+    font-weight:bolder;
+    color:black;
 }
 #post
 {
