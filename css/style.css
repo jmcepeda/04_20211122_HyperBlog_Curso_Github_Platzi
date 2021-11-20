@@ -72,9 +72,9 @@ body
 
 #post
 {
-    text-align: left;
-    font-family:'Times New Roman';
-    font-size: 11px;
+    text-align: right;
+    font-family:Georgia;
+    font-size: 22px;
     font-weight:lighter;
-    color: orange;
+    color:red;
 }
