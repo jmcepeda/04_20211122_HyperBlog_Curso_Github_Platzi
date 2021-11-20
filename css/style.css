@@ -50,11 +50,11 @@ body
 
 #pie
 {
-    color:grey;
-    font-family:'Courier New';
-    text-align: left;
-    font-weight:bold;
-    font-size: 16px;
+    font-weight:lighter;
+    text-align: center;
+    font-size: 9px;
+    color:brown;
+    font-family:Verdana;
 }
 
 #pie_Def
