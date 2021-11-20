@@ -49,21 +49,12 @@ body
 }
 
 #pie
-<<<<<<< HEAD
-{
-    font-weight:lighter;
-    text-align: center;
-    font-size: 9px;
-    color:brown;
-    font-family:Verdana;
-=======
 {  
     font-size: 26px;
     font-weight:bold;
     font-family:fantasy;
     color:greenyellow;
     text-align: left;
->>>>>>> pie
 }
 
 #pie_Def
@@ -81,9 +72,9 @@ body
 
 #post
 {
-    color:blueviolet;
-    font-weight:bolder;
-    text-align: center;
-    font-size: 11px;
-    font-family:Arial;
+    text-align: right;
+    font-weight:bold;
+    font-family:'Times New Roman';
+    color:darkcyan;
+    font-size: 4px;
 }
