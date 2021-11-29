@@ -89,3 +89,12 @@ body
     text-align: right;
     box-shadow: 0px 5px  25px pink ;
 }
+
+#footer
+{
+    text-align: right;
+    font-size: 18px;
+    font-family:Tahoma;
+    color:rgb(19, 124, 27);
+    font-weight:bold;
+}
