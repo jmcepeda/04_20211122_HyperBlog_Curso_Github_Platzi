@@ -37,14 +37,17 @@ body
     color: rgba(43, 7, 7, 0.774);
 }
 
-#tagline
+#cabecera #logo
 {
-    font-weight: 16 px;
-    text-align: center;
-    font-family: Cambria;
-    font-size: 20px;
-    font-weight:lighter;
-    color: whitesmoke;
+    width: 20px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #pie
