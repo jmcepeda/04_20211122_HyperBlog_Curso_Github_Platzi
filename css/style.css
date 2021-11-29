@@ -26,15 +26,15 @@ body
 
 #cabecera
 {
-    background-color: rgba(202, 83, 28, 0.808);
-    box-shadow: 0px 5px  15px rgba(52, 189, 18, 0.808);
+    background-color: rgba(204, 177, 90, 0.808);
+    box-shadow: 0px 5px  15px rgb(82, 82, 82);
     padding: 0 0 0 0 1em;
     font-weight: lighter;
     font-size: 1.5em;
-    text-align: right;
+    text-align: left;
     font-family: Courier;
-    font-size: 12px;
-    color: rgba(43, 7, 7, 0.774);
+    font-size: 18px;
+    color: rgba(36, 4, 4, 0.938);
 }
 
 #tagline
@@ -92,10 +92,11 @@ body
 
 #footer
 {
-    text-align: right;
-    font-size: 18px;
+    text-align: center;
+    font-size: 14px;
     font-family:Tahoma;
-    color:rgb(19, 124, 27);
-    font-weight:bold;
-    padding: 0.5em;
+    color:blue;
+    font-weight:bolder;
+    padding: 1em;
+    background-color:grey;
 }
