@@ -26,35 +26,37 @@ body
 
 #cabecera
 {
-    background-color: rgb(0, 38, 255);
-    box-shadow: 0px 5px  15px rgb(56, 79, 209);
+    background-color: rgba(202, 83, 28, 0.808);
+    box-shadow: 0px 5px  15px rgba(52, 189, 18, 0.808);
     padding: 0 0 0 0 1em;
-    font-weight: normal;
+    font-weight: lighter;
     font-size: 1.5em;
-    text-align: left;
-    font-family: Tahoma;
-    font-size: 14px;
-    font-weight:lighter;
-    color: whitesmoke;
+    text-align: right;
+    font-family: Courier;
+    font-size: 12px;
+    color: rgba(43, 7, 7, 0.774);
 }
 
-#tagline
+#cabecera #logo
 {
-    font-weight: 16 px;
-    text-align: center;
-    font-family: Cambria;
-    font-size: 20px;
-    font-weight:lighter;
-    color: whitesmoke;
+    width: 20px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #pie
 {  
-    font-size: 26px;
-    font-weight:bold;
-    font-family:fantasy;
-    color:darkred;
-    text-align: left;
+    font-size: 16px;
+    font-weight:lighter;
+    font-family:Arial;
+    color:yellowgreen;
+    text-align: center;
 }
 
 #pie_Def
@@ -89,4 +91,14 @@ body
     background-color:rgb(245, 12, 175);
     text-align: right;
     box-shadow: 0px 5px  25px pink ;
+}
+
+#footer
+{
+    text-align: right;
+    font-size: 18px;
+    font-family:Tahoma;
+    color:rgb(19, 124, 27);
+    font-weight:bold;
+    padding: 0.5em;
 }
