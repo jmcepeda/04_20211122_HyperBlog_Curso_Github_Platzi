@@ -26,16 +26,15 @@ body
 
 #cabecera
 {
-    background-color: rgb(0, 38, 255);
-    box-shadow: 0px 5px  15px rgb(56, 79, 209);
+    background-color: rgba(202, 83, 28, 0.808);
+    box-shadow: 0px 5px  15px rgba(52, 189, 18, 0.808);
     padding: 0 0 0 0 1em;
-    font-weight: normal;
+    font-weight: lighter;
     font-size: 1.5em;
-    text-align: left;
-    font-family: Tahoma;
-    font-size: 14px;
-    font-weight:lighter;
-    color: whitesmoke;
+    text-align: right;
+    font-family: Courier;
+    font-size: 12px;
+    color: rgba(43, 7, 7, 0.774);
 }
 
 #tagline
@@ -50,11 +49,11 @@ body
 
 #pie
 {  
-    font-size: 26px;
-    font-weight:bold;
-    font-family:fantasy;
-    color:darkred;
-    text-align: left;
+    font-size: 16px;
+    font-weight:lighter;
+    font-family:Arial;
+    color:yellowgreen;
+    text-align: center;
 }
 
 #pie_Def
