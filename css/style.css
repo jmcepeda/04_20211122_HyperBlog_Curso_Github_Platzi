@@ -43,6 +43,18 @@ body
     vertical-align: middle;
 }
 
+#pie_rosa
+{
+    width: 60px;
+    vertical-align: middle;
+}
+
+#footer_rosa
+{
+    width: 40px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
