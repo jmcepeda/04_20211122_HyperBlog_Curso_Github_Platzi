@@ -30,7 +30,14 @@ Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para 
 |  3 | 2  | 1  |
 |  3 | 2  | 1  |
 
-También Ejemplo de Emoji: :tw-1f49a: :tw-1f49a: :tw-1f44c: :tw-1f44c: :tw-1f432: :tw-1f41e: :tw-1f462:
+También Ejemplo de Emoji: 
+ :tw-1f49a:
+ :tw-1f49a: 
+ :tw-1f44c: 
+ :tw-1f44c: 
+ :tw-1f432: 
+ :tw-1f41e: 
+ :tw-1f462:
 
 ### A continuación está el Código HTML que he Insertado
 
