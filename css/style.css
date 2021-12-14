@@ -1,9 +1,9 @@
 body
 {
-    text-align: center;
+    text-align: left;
     font-family: 'Arial';
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 22px;
+    font-weight: lighter;
     color: black;
     margin: 0;
     padding: 0;
@@ -13,8 +13,8 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: left;
-    border: 1px solid grey;
+    text-align: right;
+    border: 1px solid rgb(94, 69, 139);
     margin: 0 auto;
 }
 
